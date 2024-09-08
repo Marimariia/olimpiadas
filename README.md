@@ -1,3 +1,4 @@
+DESVENDANDO SEUS ATLETAS- IMERSÃO DEV COM GOOGLE GEMINI
 Tá afim de descobrir tudo sobre seus atletas favoritos?
 
 Com essa aplicação simples, mas poderosa, você pode pesquisar por qualquer atleta ou esporte e encontrar informações relevantes rapidinho!
